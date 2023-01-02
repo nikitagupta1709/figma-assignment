@@ -1,0 +1,21 @@
+.side{
+    width: 20px;
+    height: 1067px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 30px;
+    justify-content: space-between;
+}
+.top{
+    border: 1px solid red;
+    width: 100%;
+    padding: 20px;
+    margin-right: 20px;
+}
+.top>img{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+
+}
